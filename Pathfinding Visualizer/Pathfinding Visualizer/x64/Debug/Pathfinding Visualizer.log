@@ -1,0 +1,53 @@
+﻿  Source.cpp
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(91,19): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(91,41): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(92,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(92,55): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(100,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(100,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(299,37): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(299,52): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(299,99): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(299,114): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(300,37): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(300,52): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(303,33): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(303,48): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(303,84): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(303,99): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(323,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(324,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(337,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(337,48): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(338,55): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(338,71): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(341,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(341,55): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(342,59): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(342,78): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(345,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(345,55): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(346,59): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(346,78): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(350,32): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(350,48): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(351,55): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(351,71): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(354,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(354,55): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(355,59): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(355,78): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(358,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(358,55): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(359,59): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(359,78): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(363,29): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(363,47): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(364,52): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(364,70): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(367,29): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(367,47): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(368,52): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(368,70): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\ahad_\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Source.cpp(319): warning C4715: 'FindPath': not all control paths return a value
+  Pathfinding Visualizer.vcxproj -> C:\Users\ahad_\source\repos\Pathfinding Visualizer\x64\Debug\Pathfinding Visualizer.exe
